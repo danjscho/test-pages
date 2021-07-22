@@ -1,6 +1,7 @@
 ---
 remote_theme: nhsx/nhsx-io-theme
-title: "Project 1"
+title: Project 1
+description: NHSX PhD Internship
 permalink: /project1/
 ---
 
