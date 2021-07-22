@@ -1,4 +1,5 @@
 ---
+remote_theme: nhsx/nhsx-io-theme
 title: "Project 1"
 permalink: /project1/
 ---
