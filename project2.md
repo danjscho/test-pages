@@ -1,5 +1,7 @@
 ---
-title: "Project 2"
+remote_theme: nhsx/nhsx-io-theme
+title: Project 2
+description: NHSX PhD Internship - Project 2
 permalink: /project2/
 ---
 
