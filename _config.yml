@@ -1,3 +1,6 @@
+domain: danjscho.github.io
+url: https://danjscho.github.io
+baseurl: /test-pages/ 
 remote_theme: nhsx/nhsx-io-theme
 
 
